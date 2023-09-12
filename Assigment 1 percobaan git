@@ -1,0 +1,16 @@
+git clone --> fungsinya untuk memasukkan file yang sudah dibuat di 
+            github sehingga file yang berada di laptop C tersambung ke
+            layanan github nya. Dan mencoba codingnya bisa via vscode 
+
+git add --> berfungsi untuk meng-add file yang kita gunakan di vscode
+
+git commit --> berfungsi sebagai bagian dari git supaya yang ada di file 
+               kita tuh udah terkomitmen sama github nantinya 
+
+git push --> berfungsi sebagai apabila ada pencacahan objek.
+
+git fetch --> berfungsi sebagai perintah utama yang digunakan untuk mengunduh konten dari repositori jarak jauh.
+
+git merge --> untuk memberi info bahwa file sudah up to date
+
+git pull --> untuk memberi info bahwa file sudah up to date
